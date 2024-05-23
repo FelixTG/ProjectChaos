@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.uasset
+*.umap
+
 
 # Precompiled Headers
 *.gch
